@@ -1,1 +1,1 @@
-C:\Users\jakaufmann\UnityProjects\NeRF
+C:\Users\jason\Documents\UnityProjects\NeRF
